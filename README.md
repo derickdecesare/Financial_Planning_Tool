@@ -28,7 +28,7 @@ This project leverages python 3.7 with the following packages:
 
 ## Datasets/APIs
 
-Datasets pulled from * [Free Crypto API] (https://alternative.me/crypto/api/) and [Alpaca API] (https://alpaca.markets/)
+Datasets pulled from [Free Crypto API] (https://alternative.me/crypto/api/) and [Alpaca API] (https://alpaca.markets/)
 
 ## Usage
 
@@ -41,7 +41,8 @@ Upon launching the financial_planning_tools.ipynb run each cell sequentially. Yo
 This application will return whether or not you have enough money in the portfolio to cover your emergency fund. It will return three different responses based on the amount in your portfolio compared to your emergency fund goal.
 
 Here is an example of the three responses:
-![Emergency Planner Responses](Images/example-emergency-planner.png)
+
+![Emergency Planner Responses](Images/response.png)
 
 ### Financial Planner for Retirement
 
@@ -54,6 +55,7 @@ Here is an example of the MC simulation plotted as a histogram to visualize the 
 ![MC Histogram](Images/5-4-monte-carlo-histogram.png)
 
 Summary stats will be created so that futher analysis can be done. Here is an example sumary table.
+
 ![MC Summary](Images/summary.png)
 
 Then the application give us a prediction for the future value of the portfolio within a 95% confidence interval.
