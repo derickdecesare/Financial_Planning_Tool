@@ -58,4 +58,6 @@ Summary stats will be created so that futher analysis can be done. Here is an ex
 
 ![MC Summary](Images/summary.png)
 
-Then the application give us a prediction for the future value of the portfolio within a 95% confidence interval.
+Then the application gives us a prediction for the future value of the portfolio within a 95% confidence interval.
+
+![MC Prediction](Images/prediction.png)
